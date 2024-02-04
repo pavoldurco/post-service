@@ -1,5 +1,5 @@
 ### About
-Project Post is a microservice that provides additional API implementation for the Post application.
+Project Post Service is a microservice that provides additional API implementation for the Post Service Application.
 
 ### Prerequisites
 
