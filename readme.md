@@ -1,5 +1,5 @@
 ### About
-Project Post is a microservice that provides additional API implementation for the Post application.
+Project Post Service is a microservice that provides additional API implementation for the Post Service Application.
 
 ### Prerequisites
 
@@ -11,10 +11,10 @@ Project Post is a microservice that provides additional API implementation for t
 Installation can be done executing `mvn clean install` with optional `-DskipTests=true` parameter for skipping tests.
 
 ### DB connection
-Fill in your db connection credentials such as database url, username and password to [application.properties](sportdiary-core/src/main/resources/application.properties) file.
+Fill in your db connection credentials such as database url, username and password to [application.properties](https://github.com/pavoldurco/post-service/blob/master/src/main/resources/application.properties) file.
 
 ### Running
-The project runs on Spring Boot and it can be run by clicking on the ► symbol in [PostServiceApplication](sportdiary-service/src/main/java/com/yoso/sportdiary/SportdiaryApplication.java) class.
+The project runs on Spring Boot and it can be run by clicking on the ► symbol in [PostServiceApplication](https://github.com/pavoldurco/post-service/blob/master/src/main/java/sk/pelikan/post/PostServiceApplication.java) class.
 
 Otherwise you can start the application with *Ctrl+Shift+F10* shortcut, or by running it from Run/Debug configuration panel(after first start).
 
