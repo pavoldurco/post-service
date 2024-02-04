@@ -35,12 +35,10 @@ public class PostControllerIT {
     @MockBean
     private PostService postService;
     private Post post;
-    private User user;
 
     @BeforeEach
     void setUp() {
         post = new Post(1, 1, "Title", "Body");
-        user = new User(1, "User Name");
     }
 
     @Nested
