@@ -1,4 +1,4 @@
-package sk.pelikan.post.postservice;
+package sk.pelikan.post;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package sk.pelikan.post.postservice;
+package sk.pelikan.post;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
